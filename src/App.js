@@ -10,7 +10,8 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>
-          GOOD
+          Review in 20211019. Using docker compose up -d running in background
+          Test git config, 2021/12/26
         </p>
         <a
           className="App-link"
